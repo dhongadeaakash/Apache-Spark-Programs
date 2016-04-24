@@ -1,7 +1,10 @@
 
 # coding: utf-8
 
-# In[10]:
+# The following program is based on Apache Spark using Python based on the mooc https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/info
+
+# program created by : Aakash Dhongade dhongadeaakash@gmail.com
+
 
 #function that removes punctuations
 def removePunctuation(text):
