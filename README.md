@@ -1,5 +1,5 @@
 # Apache-Spark-Programs
-All the scripts in the program are developed using Apache Spark using Jupyter 
+All the scripts in the program are developed using Apache Spark using Jupyter.
 Refer http://spark.apache.org/docs/latest/api/python/pyspark.html for documentation
 # Description of the Pograms
 ##Word Processing Program
